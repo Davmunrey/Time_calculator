@@ -1,6 +1,4 @@
-# Python Scientific Computing with Python Projects 
-
-Time Calculator assignment 
+# Time Calculator assignment 
 
 ## Assignment
 
